@@ -3,3 +3,18 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
 }
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #bbd3f7
+}
+td{
+    padding: 10px;  
+    align-items: center;
+}
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
